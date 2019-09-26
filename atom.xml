@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mahongdong.github.io</id>
     <title>风风的博客</title>
-    <updated>2019-09-25T03:30:50.606Z</updated>
+    <updated>2019-09-26T03:14:56.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mahongdong.github.io"/>
     <link rel="self" href="https://mahongdong.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://mahongdong.github.io/images/avatar.png</logo>
     <icon>https://mahongdong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 风风的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[为何迷恋上github]]></title>
+        <id>https://mahongdong.github.io/post/wei-he-mi-lian-shang-github</id>
+        <link href="https://mahongdong.github.io/post/wei-he-mi-lian-shang-github">
+        </link>
+        <updated>2019-09-26T03:02:57.000Z</updated>
+        <content type="html"><![CDATA[<p>这几天，有意思。</p>
+<p>github重新进入了本人视线，<br>
+原来知道它是一个代码仓库，<br>
+是程序员储存源代码，或者和团队一起协作的地方，<br>
+后来说能做个人主页，<br>
+对这个个人主页一直有种执念，<br>
+玩玩的目的，开始了相关的学习。</p>
+<p>hexo 研究了一下，不会<br>
+为什么？因为那时候还不知道git的存在，<br>
+所以盲人摸象，最终放弃。</p>
+<p>最近几天，在知乎上看了一篇文章<br>
+好吧，我贴上这篇文章，表示对作者的感谢<br>
+https://zhuanlan.zhihu.com/p/81667972<br>
+才有了今天这个样子的主页。</p>
+<p>始终不明白，为什么自己也喜欢这个玩意儿，<br>
+浅浅的应用，<br>
+好了，想法记录到这里。<br>
+再见。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[陌生人，咱们谈谈吧]]></title>
         <id>https://mahongdong.github.io/post/hai-mo-sheng-ren</id>
